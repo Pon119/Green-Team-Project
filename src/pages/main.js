@@ -3,7 +3,9 @@ import "@/styles/main.scss";
 
 function main() {
   return (
-    <div>main</div>
+    <div>
+      메인 페이지 입니다.
+    </div>
   )
 }
 

@@ -1,10 +1,11 @@
+// 4. MY
 import React from 'react'
-import "@/styles/mypage.scss";
+import mypageStyle from '@/styles/mypage.module.scss'
 
-function mypage() {
+function Mypage() {
   return (
-    <div>6_mypage</div>
+    <div>마이페이지</div>
   )
 }
 
-export default mypage
+export default Mypage

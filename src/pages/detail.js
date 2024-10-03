@@ -1,10 +1,11 @@
+// 2-1. 디테일
 import React from 'react'
-import "@/styles/deetail.scss";
+import detailStyle from '@/styles/detail.module.scss'
 
-function detail() {
+function Detail() {
   return (
-    <div></div>
+    <div>디테일</div>
   )
 }
 
-export default detail
+export default Detail

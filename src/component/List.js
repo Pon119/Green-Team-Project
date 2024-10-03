@@ -1,5 +1,5 @@
 import React from 'react'
-import "@/styles/list.scss";
+import listStyle from "@/styles/list.module.scss";
 
 function List() {
   return (

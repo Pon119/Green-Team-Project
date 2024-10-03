@@ -1,5 +1,5 @@
 import React from 'react'
-import "@/styles/button.scss";
+import btnStyle from "@/styles/button.module.scss";
 
 function button() {
   return (

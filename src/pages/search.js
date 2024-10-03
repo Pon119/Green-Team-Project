@@ -1,10 +1,11 @@
+// 3. 검색
 import React from 'react'
-import "@/styles/search.scss";
+import searchStyle from '@/styles/search.module.scss'
 
-function search() {
+function Search() {
   return (
-    <div>4_search</div>
+    <div>검색</div>
   )
 }
 
-export default search
+export default Search

@@ -14,10 +14,10 @@ function Header() {
       header = <HeaderMain />
       break;
     case '/category':
-      header = <HeaderSub />
+      header = <HeaderMain />
       break;
     case '/detail':
-      header = <HeaderDetail />
+      header = <HeaderMain />
       break;
     default:
       header = <HeaderMain />

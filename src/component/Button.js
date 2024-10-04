@@ -1,10 +1,10 @@
 import React from 'react'
 import btnStyle from "@/styles/button.module.scss";
 
-function button() {
+function Button() {
   return (
     <div>button</div>
   )
 }
 
-export default button
+export default Button

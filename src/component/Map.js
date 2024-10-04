@@ -1,9 +1,9 @@
 import React from 'react'
 import mapStyle from "@/styles/map.module.scss";
 
-function map() {
+function Map() {
   return (
-    <div>map</div>
+    <div>Map</div>
   )
 }
 

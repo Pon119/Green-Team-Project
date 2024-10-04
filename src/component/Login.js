@@ -3,7 +3,7 @@ import loginStyle from '@/styles/login.module.scss'
 
 function Login() {
   return (
-    <div>5_login</div>
+    <div>Login</div>
   )
 }
 

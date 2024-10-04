@@ -3,7 +3,7 @@ import joinStyle from '@/styles/join.module.scss'
 
 function Join() {
   return (
-    <div>3_join</div>
+    <div>Join</div>
   )
 }
 
